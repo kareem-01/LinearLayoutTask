@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">week 6 linear layout</string>
+    <string name="name">Ahmed hassan</string>
+    <string name="hours">3 hr</string>
+    <string name="job">Engineer</string>
+    <string name="nationality">Russian</string>
+    <string name="current_place">UK</string>
+    <string name="last_update">5 Days ago</string>
+    <string name="reviews_count">(150 Reviews)</string>
+    <string name="rating">4.5</string>
+</resources>
